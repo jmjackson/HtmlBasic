@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: floralwhite;
+    font-family: sans-serif;
+}
+header img{
+    width: 100%;
+}
+
+nav a{
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 2em;
+    text-decoration: none;
+    text-align: center;
+}
+.alcenter{
+    display: inline-block;
+    text-align: center;
+    position: absolute;
+    left: 48%;
+    
+}
+
+aside{
+    width: 40%;
+    float: left;
+}
+section{
+    width: 60%;
+    float: right;
+}
+
+footer{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+span{
+    margin: 40px;
+}
